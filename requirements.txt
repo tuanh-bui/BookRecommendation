@@ -1,4 +1,4 @@
-#CSC111 Project 2 Required Python libraries
+#Project Required Python libraries
 
 plotly
 networkx
