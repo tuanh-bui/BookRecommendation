@@ -1,5 +1,5 @@
 """
-CSC111 - Project 2: Genres of the most popular books of all time and recommendations.
+Genres of the most popular books of all time and recommendations.
 """
 
 from __future__ import annotations
