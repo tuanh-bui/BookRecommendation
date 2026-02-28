@@ -1,5 +1,5 @@
 """
-CSC111-Project 2: Main file to run project 2.
+Main file to run the project.
 """
 
 import proj2_books_2
