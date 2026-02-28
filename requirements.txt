@@ -1,0 +1,6 @@
+#CSC111 Project 2 Required Python libraries
+
+plotly
+networkx
+matplotlib
+pandas
